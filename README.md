@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalkson&label=Profile%20views&color=0e75b6&style=flat" alt="kalkson" /> </p>
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-</p>
+## Spotify
 
 [![Spotify](https://gh-gl14etnkc-kalkson.vercel.app/api/spotify)](https://open.spotify.com/user/qp0v5nift2xkv3bg2dclgcb0s)
 
