@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalkson&label=Profile%20views&color=0e75b6&style=flat" alt="kalkson" /> </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkson)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
