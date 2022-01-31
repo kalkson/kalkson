@@ -6,6 +6,9 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SPA, SSG i SSR, czyli wielkie porównanie sposobu serwowania stron internetowych](https://reactywny.pl/posts/spa-ssg-i-ssr-czyli-wielkie-porownanie-sposobu-serwowania-stron-internetowych)
+- [Relacja z HackYeah 2021](https://reactywny.pl/posts/relacja-z-hackyeah-2021)
+- [Intersection Observer w JavaScript](https://reactywny.pl/posts/intersection-observer-w-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
