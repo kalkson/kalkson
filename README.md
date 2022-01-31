@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkson)](https://github.com/anuraghazra/github-readme-stats)
 
-## Blog posts
+## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [SPA, SSG i SSR, czyli wielkie porównanie sposobu serwowania stron internetowych](https://reactywny.pl/posts/spa-ssg-i-ssr-czyli-wielkie-porownanie-sposobu-serwowania-stron-internetowych)
