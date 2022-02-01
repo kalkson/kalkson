@@ -8,9 +8,9 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak działa współczesny frontend, czyli Webpack cz. 1](https://reactywny.pl/posts/jak-dziala-wspolczesny-frontend-czyli-webpack-cz.-1)
 - [SPA, SSG i SSR, czyli wielkie porównanie sposobu serwowania stron internetowych](https://reactywny.pl/posts/spa-ssg-i-ssr-czyli-wielkie-porownanie-sposobu-serwowania-stron-internetowych)
 - [Relacja z HackYeah 2021](https://reactywny.pl/posts/relacja-z-hackyeah-2021)
-- [Intersection Observer w JavaScript](https://reactywny.pl/posts/intersection-observer-w-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
