@@ -8,9 +8,9 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Czego nauczyłem się po 1. roku pracy w zawodzie programisty?](https://reactywny.pl/posts/czego-nauczylem-sie-po-1-roku-pracy-w-zawodzie-programisty)
 - [Style z bundlerem - Webpack cz. 3](https://reactywny.pl/posts/style-z-bundlerem-webpack-cz-3)
 - [Konfiguracja własnego SPA - Webpack cz. 2](https://reactywny.pl/posts/konfiguracja-wlasnego-spa-webpack-cz-2)
-- [Jak działa współczesny frontend, czyli Webpack cz. 1](https://reactywny.pl/posts/jak-dziala-wspolczesny-frontend-czyli-webpack-cz-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
