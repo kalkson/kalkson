@@ -8,9 +8,9 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Czego nauczyłem się po 1. roku pracy w zawodzie programisty?](https://reactywny.pl/posts/czego-nauczylem-sie-po-1-roku-pracy-w-zawodzie-programisty)
+- [Style z bundlerem - Webpack cz. 3](https://reactywny.pl/posts/style-z-bundlerem-webpack-cz-3)
+- [Konfiguracja własnego SPA - Webpack cz. 2](https://reactywny.pl/posts/konfiguracja-wlasnego-spa-webpack-cz-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
