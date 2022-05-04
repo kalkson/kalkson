@@ -8,9 +8,9 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hooki w React, których prawdopodobnie nie używasz](https://reactywny.pl/posts/hooki-w-react-ktorych-prawdopodobnie-nie-uzywasz)
 - [Czego nauczyłem się po 1. roku pracy w zawodzie programisty?](https://reactywny.pl/posts/czego-nauczylem-sie-po-1-roku-pracy-w-zawodzie-programisty)
 - [Style z bundlerem - Webpack cz. 3](https://reactywny.pl/posts/style-z-bundlerem-webpack-cz-3)
-- [Konfiguracja własnego SPA - Webpack cz. 2](https://reactywny.pl/posts/konfiguracja-wlasnego-spa-webpack-cz-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
