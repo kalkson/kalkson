@@ -8,9 +8,9 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hooki w React, których prawdopodobnie nie używasz](https://reactywny.pl/posts/hooki-w-react-ktorych-prawdopodobnie-nie-uzywasz)
-- [Czego nauczyłem się po 1. roku pracy w zawodzie programisty?](https://reactywny.pl/posts/czego-nauczylem-sie-po-1-roku-pracy-w-zawodzie-programisty)
-- [Style z bundlerem - Webpack cz. 3](https://reactywny.pl/posts/style-z-bundlerem-webpack-cz-3)
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify
