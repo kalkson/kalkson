@@ -1,22 +1,6 @@
 <h1>Hi 👋, I'm Kalka</h1>
 <h3>FE Dev from PL 🇵🇱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalkson&label=Profile%20views&color=0e75b6&style=flat" alt="kalkson" /> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkson)](https://github.com/anuraghazra/github-readme-stats)
-
-## Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-<!-- BLOG-POST-LIST:END -->
-
-## Spotify
-
-[![Spotify](https://gh-gl14etnkc-kalkson.vercel.app/api/spotify)](https://open.spotify.com/user/qp0v5nift2xkv3bg2dclgcb0s)
-
 ## Languages and Tools:
 
 <p align="left">
